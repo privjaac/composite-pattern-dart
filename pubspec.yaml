@@ -1,0 +1,13 @@
+name: pattern_composite
+description: Proyecto que representa a una Organización usando el Patrón Composite.
+version: 0.0.1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  args: ^2.5.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
