@@ -87,7 +87,7 @@ classDiagram
 Definimos la interfaz que comparten todos los componentes:
 
 ```dart
-abstract class Employee {
+abstract interface class Employee {
   String get name;
 
   double calculateSalary();
