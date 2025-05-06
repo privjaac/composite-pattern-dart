@@ -260,8 +260,8 @@ void main() {
 Para clonar este proyecto:
 
 ```bash
-git clone https://github.com/privjaac/composite-pattern-dart
-cd composite-pattern-dart
+git clone https://github.com/somospragma/mobile-architecture-design-flutter-composite-pattern
+cd mobile-architecture-design-flutter-composite-pattern
 ```
 
 ## Autor
